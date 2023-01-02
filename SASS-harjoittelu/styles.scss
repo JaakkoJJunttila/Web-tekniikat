@@ -1,0 +1,12 @@
+@mixin theme() {
+    color: $hilite;
+    border: 1px solid $hilite;
+    padding: 5px
+    margin: 5px
+}
+
+$hilite: pink
+
+h1 {
+  @include theme()
+}
