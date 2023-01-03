@@ -1,0 +1,39 @@
+
+div{
+    padding: 5px;
+}
+.container{
+    border: solid 3px black;
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+    font-size:x-large;
+    font-weight: bold;
+}
+.textbox{
+    height: 100px;
+    text-align:justify
+}
+input[type=checkbox] {
+    transform: scale(1.3);
+}
+input[type=button] {
+    transform: scale(1.2);
+    
+}
+#button{
+    padding-left: 14px;
+}
+#printNote{
+    padding: 500;
+}
+#message{
+    
+    font-weight: 100
+}
+newnote{
+    background-color: beige;
+}
+.mystyle{
+    background-color: red;
+}
