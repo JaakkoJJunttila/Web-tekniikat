@@ -1,0 +1,8 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.container {
+    margin: auto;
+    border-radius: 10px;
+    min-height: 80px;
+}
