@@ -6,58 +6,58 @@ body {
     
 }
 .red {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     background-color: rgba(251,2,47,255);
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 
 }
 .orange {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: rgba(252,147,31,255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width: fit-content;
 }
 .yellow {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: rgba(255,242,51,255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width:  fit-content;
     
 }
 .green {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: rgba(87,252,111,255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width:  fit-content;
 }
 .blue {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: rgba(40,186,252,255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width:  fit-content;
 }
 .purple{
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: rgba(187,148,254,255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     width:  fit-content;
 }
 
