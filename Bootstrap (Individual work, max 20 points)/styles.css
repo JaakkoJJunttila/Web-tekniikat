@@ -1,8 +1,90 @@
-*{
+body {
+    background-color: black;
     font-family: 'Titillium Web', sans-serif;
 }
 .container {
-    margin: auto;
+    
+}
+.red {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgba(251,2,47,255);
+    padding-bottom: 10px;
+
+}
+.orange {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(252,147,31,255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 40px;
+    width: fit-content;
+}
+.yellow {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(255,242,51,255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 40px;
+    width:  fit-content;
+    
+}
+.green {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(87,252,111,255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 40px;
+    width:  fit-content;
+}
+.blue {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(40,186,252,255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 40px;
+    width:  fit-content;
+}
+.purple{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(187,148,254,255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 40px;
+    width:  fit-content;
+}
+
+p {
+    font-size: larger;
+}
+h3 {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+img {
+    max-width: 100%;
+    max-height: auto;
+}
+.navbar-brand{
+    font-size:xx-large
+}
+.container-fluid{
+    font-size: larger;
+    height: max-content;
+}
+.navbar{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#tietoja {
+    background-color: white;
+    padding: 15px;
     border-radius: 10px;
-    min-height: 80px;
 }
